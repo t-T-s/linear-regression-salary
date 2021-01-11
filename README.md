@@ -5,7 +5,8 @@ The problem is to create a regression model for the variation of salary with the
 
 The dataset was divided into two in order to test the model and train the model. First the gradient and intercept for the linear best suited function is calculated. This was calculated as follows.
 
-Gradient=  Covariance/Variance
+Gradient = Covariance/Variance 
+
 Intercept= y - Gradient* mean
 
 Then after that the real years of experience is taken and using the regression coefficients we calculated, the predictions for the salary were derived. 
