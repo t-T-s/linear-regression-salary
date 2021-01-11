@@ -1,7 +1,7 @@
 # linear-regression-salary
 Equation based stastical linear regression model is implemented using python.
 
-The problem is to create a regression model for the variation of salary with the year of experience of employees in company. 
+The problem is to find the variation of salary with the years of experience of employees in a company. 
 
 The dataset was divided into two in order to test the model and train the model. First the gradient and intercept for the linear best suited function is calculated. This was calculated as follows.
 
